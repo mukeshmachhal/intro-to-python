@@ -1,6 +1,6 @@
 # Chapter 07_sequences
 
-**Due Date:** TBD
+**Due Date:** Fri. Feb 20
 
 **This chapter is *not ready* for Phy 225 students to work on.**
 
